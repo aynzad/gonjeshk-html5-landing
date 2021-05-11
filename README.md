@@ -11,7 +11,7 @@
 The **Gonjeshk HTML5 Landing** is simple HTML5 & CSS3 landing page for a personal website. 
 
 ## Live Demo
-Live demo on [archive.org](https://web.archive.org/web/20201101071812/http://gonjeshk.ir/).
+Live demo on [aynzad.github.io/gonjeshk-html5-landing/](https://aynzad.github.io/gonjeshk-html5-landing/).
 
 ## Contributing
 
